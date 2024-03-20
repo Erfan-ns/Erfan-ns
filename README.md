@@ -1,2 +1,2 @@
-# Erfan-ns
-## myskills:
+# Erfan nasiri
+### pyhton , mysql , django
